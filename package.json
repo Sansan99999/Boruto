@@ -1,0 +1,22 @@
+{
+  "name": "boruto",
+  "version": "1.0.0",
+  "description": "this is tea boruto test",
+  "main": "npm",
+  "scripts": {
+    "test": "boruto"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sansan99999/Boruto.git"
+  },
+  "keywords": [
+    "boruto"
+  ],
+  "author": "sansan99999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sansan99999/Boruto/issues"
+  },
+  "homepage": "https://github.com/Sansan99999/Boruto#readme"
+}
